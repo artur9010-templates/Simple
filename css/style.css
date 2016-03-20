@@ -13,10 +13,7 @@ body{
 
 .footer{
     background: white;
-    padding-top: 0;
-    padding-bottom: 20px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 0 20px 15px 15px;
 }
 
 .left-align{
@@ -52,10 +49,6 @@ article{
 
 .article-header{
     margin: -19px 0 5px 0;
-}
-
-.article-body{
-    
 }
 
 /* Helpers */
