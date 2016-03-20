@@ -11,6 +11,22 @@ body{
     box-shadow: 0 0 30px rgba(0,0,0,0.7);
 }
 
+.footer{
+    background: white;
+    padding-top: 0;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.left-align{
+    text-align: left;
+}
+
+.right-align{
+    text-align: right;
+}
+
 /* Header */
 
 .header{
@@ -47,4 +63,9 @@ article{
     position: relative;
 	top: 50%;
 	transform: translateY(50%);
+}
+
+/* Other */
+::-webkit-scrollbar {
+    display: none;
 }
